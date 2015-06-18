@@ -1,0 +1,29 @@
+{
+  "name": "herehere",
+  "version": "0.1.0",
+  "description": "A super simple JS debug module",
+  "main": "herehere.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rjauquet/herehere.git"
+  },
+  "keywords": [
+    "debug",
+    "javascript",
+    "node",
+    "nodejs",
+    "js",
+    "here",
+    "console",
+    "log"
+  ],
+  "author": "Rob Jauquet <rjauquet@gmail.com> (http://rubyjacket.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjauquet/herehere/issues"
+  },
+  "homepage": "https://github.com/rjauquet/herehere"
+}
