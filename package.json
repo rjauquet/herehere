@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/rjauquet/herehere/issues"
   },
-  "homepage": "https://github.com/rjauquet/herehere"
+  "homepage": "https://github.com/rjauquet/herehere",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "karma": "^0.12.36",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.2.5"
+  }
 }
