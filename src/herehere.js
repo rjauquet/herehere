@@ -1,7 +1,9 @@
 module.exports = function(){
     var count = 0;
     return function(){
-        console.log('here', count++);
+        if (process.env.NODE_ENV !== "production") {
+            console.log('here', count++);
+        }
         return count;
     };
 };
